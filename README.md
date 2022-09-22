@@ -1,3 +1,18 @@
 # responsive-portfolio-website-leocodes
-Responsive Portfolio Website
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name and a great image. Then the About section displays more information about you. Then the list of skills it offers. It also has a section where it shows some recent work. And at the bottom it has contact information and a form, and at the bottom a footer.
+
+
+### Hello I'M Leonard 👋
+
+- 🔭 I’m currently working with React JS, Tailwind CSS, using them to build responsive web projects.
+- 🌱 I’m currently learning more about Cloud computing, and API.
+- 👯 I’m looking to collaborate on Web & Software Development.
+- 💬 Ask me about Anything.
+- 📫 How to reach me: leonard6oba@gmail.com
+- ⚡ Fun fact: love watching movies, and BBall.
+- All my projects are available at [My Projects](https://chibuezecodes.netlify.app/)
+
+  🚀Languages and Tools:
+   Html, CSS, JavaScript, React, Python & Java,....
+
+  📫connect with me 
+  [Twitter](https://twitter.com/leo_codes0),[Instagram](https://www.instagram.com/leo__codes/)
