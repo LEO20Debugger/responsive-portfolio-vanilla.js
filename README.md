@@ -1,8 +1,10 @@
 # responsive-portfolio-website-leocodes
 
-# my very first portfolio it's being a while since i updated it.
+my very first portfolio it's being a while since i updated it.
 
-# as at 06/2024 i hava built a new portfolio website from scratch https://brainergybyleo.vercel.app/
+as at 06/2024 i hava built a new portfolio website from scratch
+
+https://brainergybyleo.vercel.app/
 
 ### Hello I'M Leonard 👋
 
